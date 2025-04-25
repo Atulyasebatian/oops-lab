@@ -47,8 +47,8 @@ public class StringManipulation
 
 
 
-(base) ksb@ksb-H410M-H-V2:~/jahana/oops$ javac StringManipulation.java
-(base) ksb@ksb-H410M-H-V2:~/jahana/oops$ java StringManipulation
+(base) ksb@ksb-H410M-H-V2:~/athulya/oops$ javac StringManipulation.java
+(base) ksb@ksb-H410M-H-V2:~/athulya/oops$ java StringManipulation
 a.Created strings:
 str1: Hello
 str2: World
