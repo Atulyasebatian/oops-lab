@@ -1,6 +1,6 @@
 public class StringManipulation
     {
-    public static void main(String[] args)
+    public static void main(String[] args) 
         {
         // a. Create new strings using new
         String str1 = new String("Hello");
